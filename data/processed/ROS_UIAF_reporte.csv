@@ -1,0 +1,6 @@
+fecha_reporte,cliente_id,nombre,score_riesgo,n_alertas,en_red_sospechosa,en_lista_ofac,tipologia,accion,norma
+2026-11-01,CLI_00497,,100,2,True,False,Pitufeo + Red testaferros,Bloqueo y reporte UIAF inmediato,Circular Externa 027 de 2020 SFC
+2026-11-01,CLI_02031,,100,2,True,False,Pitufeo + Red testaferros,Bloqueo y reporte UIAF inmediato,Circular Externa 027 de 2020 SFC
+2026-11-01,CLI_04759,,100,1,True,False,Pitufeo + Red testaferros,Bloqueo y reporte UIAF inmediato,Circular Externa 027 de 2020 SFC
+2026-11-01,CLI_03845,,100,2,True,False,Pitufeo + Red testaferros,Bloqueo y reporte UIAF inmediato,Circular Externa 027 de 2020 SFC
+2026-11-01,CLI_02867,,100,1,True,False,Pitufeo + Red testaferros,Bloqueo y reporte UIAF inmediato,Circular Externa 027 de 2020 SFC
