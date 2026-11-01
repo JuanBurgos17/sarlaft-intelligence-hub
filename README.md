@@ -15,3 +15,6 @@ Python 3.10, Scikit-learn, XGBoost, NetworkX, Neo4j, Power BI
 
 ## Estado
 Paso 0 - Setup Senior completado
+## Detección de Redes
+Red principal detectada de 191 clientes con 3522 relaciones - posible red de testaferros.
+![Red SARLAFT](dashboards/red_principal_sarlaft.png)
