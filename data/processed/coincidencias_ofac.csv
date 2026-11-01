@@ -1,0 +1,14 @@
+cliente_id,nombre,edad,tipo_cliente,actividad_economica,ingresos_mensuales,municipio,departamento,pais,es_pep,es_extranjero,riesgo_base,antiguedad_meses,log_ingresos,riesgo_num,segmento,nombre_ofac,tipo_lista,motivo
+CLI_00107,Lorena Raquel Escobar,44,Natural,Asalariado,1839942,Medellin,Valle,Colombia,0,0,Bajo,101,14.425245150844464,1,0,Lorena Raquel Escobar,OFAC SDN,Narcotrafico
+CLI_00590,Nancy Pilar Montoya,63,Juridica,Asalariado,2896406,Cali,Norte de Santander,Colombia,0,0,Bajo,84,14.878981561287144,1,0,Nancy Pilar Montoya,OFAC SDN,Narcotrafico
+CLI_00706,Margarita Carmen Guerra,72,Natural,Construccion,4028885,Cartagena,Antioquia,Colombia,0,0,Bajo,12,15.20900046891093,1,4,Margarita Carmen Guerra,OFAC SDN,Narcotrafico
+CLI_01056,Janneth Gutiérrez Valencia,19,Natural,Servicios,3185677,Cartagena,Antioquia,Colombia,0,0,Bajo,61,14.974175697175635,1,3,Janneth Gutiérrez Valencia,OFAC SDN,Narcotrafico
+CLI_01502,Aldemar Romero,74,Juridica,Agricultor,7701028,Cartagena,Valle,Colombia,0,0,Bajo,102,15.856864514259003,1,0,Aldemar Romero,OFAC SDN,Narcotrafico
+CLI_01601,Deisy Duque Alzate,48,Juridica,Comerciante,1360038,Medellin,Cundinamarca,Colombia,0,0,Bajo,29,14.12302393377166,1,4,Deisy Duque Alzate,OFAC SDN,Narcotrafico
+CLI_02322,Juan Rojas,44,Natural,Asalariado,2284591,Bogota,Antioquia,Colombia,0,0,Bajo,55,14.64169801056877,1,3,Juan Rojas,OFAC Clinton,Terrorismo
+CLI_02414,Pedro Ruiz Escobar,72,Juridica,Construccion,2090597,Bogota,Bolivar,Colombia,0,0,Bajo,79,14.552960707417128,1,4,Pedro Ruiz Escobar,OFAC SDN,Narcotrafico
+CLI_02469,Andrés Freddy Bolaños,19,Juridica,Comerciante,7460286,Medellin,Valle,Colombia,0,0,Bajo,23,15.825104443289788,1,3,Andrés Freddy Bolaños,OFAC SDN,Narcotrafico
+CLI_02587,María Pacheco Ávila,34,Natural,Asalariado,4131962,Cucuta,Valle,Colombia,0,0,Bajo,81,15.23426315468012,1,0,María Pacheco Ávila,OFAC SDN,Narcotrafico
+CLI_02654,Alberto José Moreno Rojas,75,Natural,Servicios,2722937,El Bagre,Norte de Santander,Colombia,0,0,Bajo,81,14.817222002391905,1,4,Alberto José Moreno Rojas,OFAC SDN,Narcotrafico
+CLI_03711,Angélica Pérez,43,Juridica,Agricultor,1750962,Cartagena,Norte de Santander,Colombia,0,0,Bajo,37,14.37567648026232,1,3,Angélica Pérez,OFAC Clinton,Terrorismo
+CLI_04222,Gloria Rodríguez,47,Natural,Agricultor,6441957,Cali,Norte de Santander,Colombia,0,0,Bajo,60,15.678343089137654,1,3,Gloria Rodríguez,OFAC Clinton,Corrupcion
