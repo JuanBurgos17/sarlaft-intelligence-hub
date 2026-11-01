@@ -1,0 +1,24 @@
+# Entornos virtuales
+sarlaft/
+venv/
+.env
+
+# Datos - NUNCA subir datos reales
+data/raw/*
+data/processed/*
+data/external/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db

@@ -1,0 +1,17 @@
+project:
+  name: "sarlaft-intelligence-hub"
+  version: "0.1.0"
+  normativa: "Circular Externa 027 de 2020 - SFC Colombia"
+
+data:
+  n_clientes: 5000
+  n_transacciones: 50000
+  seed: 42
+
+sarlaft:
+  factores_riesgo: ["cliente", "producto", "canal", "jurisdiccion"]
+  segmentos_k: 5
+
+paths:
+  raw: "data/raw/"
+  processed: "data/processed/"
